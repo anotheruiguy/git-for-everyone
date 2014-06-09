@@ -1,0 +1,18 @@
+{
+    "name": "Build a Node.js Project from Scratch",
+    "version": "0.1.0",
+    "description": "Build a Node.js project from scratch, learn how to install the Express framework, learn about Yeomen Generators, create Grunt Tasks and build and install your own Bower Packages.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anotheruiguy/node-workshop"
+    },
+    "author": "Dale Sande <dale.sande@gmail.com>",
+    "license": "copyright 2014",
+    "links": {
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    }
+}
