@@ -1,3 +1,3 @@
-# Form a repo on Github
+# Fork a repo on Github
 
 more to come
