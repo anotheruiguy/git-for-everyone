@@ -1,18 +1,11 @@
 {
-    "name": "Build a Node.js Project from Scratch",
+    "name": "Git for Everyone",
     "version": "0.1.0",
-    "description": "Build a Node.js project from scratch, learn how to install the Express framework, learn about Yeomen Generators, create Grunt Tasks and build and install your own Bower Packages.",
+    "description": "Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/anotheruiguy/node-workshop"
+        "url": "https://github.com/anotheruiguy/git-for-everyone"
     },
     "author": "Dale Sande <dale.sande@gmail.com>",
-    "license": "copyright 2014",
-    "links": {
-        "sharing": {
-            "google": false,
-            "facebook": false,
-            "twitter": false
-        }
-    }
+    "license": "copyright 2014"
 }
