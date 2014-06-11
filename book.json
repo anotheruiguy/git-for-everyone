@@ -1,6 +1,6 @@
 {
     "name": "Git for Everyone",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.",
     "repository": {
         "type": "git",

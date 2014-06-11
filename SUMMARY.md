@@ -23,3 +23,7 @@
   * [The delta](demo/delta.md)
   * [The merge](demo/merge.md)
   * [Kill w/fire](demo/delete.md)
+* [Github](github/README.md)
+* [Fork a repo](fork/README.md)
+* [Clone a repo](clone/README.md)
+

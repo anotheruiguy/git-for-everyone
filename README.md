@@ -16,9 +16,9 @@ This course will be presented with a slide deck, live demonstration and Gitbook 
 
 * Life in the Terminal
 * Terminal cheatsheet (short list in presentation, full doc in Gitbook)
-* Git demo (visual desktop demo)
-* What is branching? (visual with GitX in presentation)
+* What is branching? (visual in presentation)
 * Git basics - a general workflow (book and presentation)
+* Git demo (visual desktop demo)
 * Clone a repo (how to)
 * Fork a repo, edit and submit a pull request (how to)
 
