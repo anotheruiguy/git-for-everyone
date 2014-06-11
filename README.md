@@ -15,13 +15,12 @@ This course will be presented with a slide deck, live demonstration and Gitbook 
 #### Presentation outline:
 
 * Life in the Terminal
-* Terminal utilities (gitbook only)
 * Terminal cheatsheet (short list in presentation, full doc in Gitbook)
 * Git demo (visual desktop demo)
-* What is branching? (visual with GitX)
-* Git basics - a general workflow
-* Clone a repo
-* Fork a repo, edit and submit a pull request
+* What is branching? (visual with GitX in presentation)
+* Git basics - a general workflow (book and presentation)
+* Clone a repo (how to)
+* Fork a repo, edit and submit a pull request (how to)
 
 #### Workshop outline:
 
