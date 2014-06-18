@@ -16,7 +16,7 @@ h1 {
 
 **JavaScript**
 ```javascript
-need some javascript
+var today = new Date()
 ```
 
 Looking good. Having done this, let's look at our `status` again. Anything different? Nope. While Git does track every single turned bit in these documents, it does not display this in the `status` output.
