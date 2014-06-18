@@ -10,6 +10,6 @@ To fork a project you simply need to click the **fork** button on the repo page.
 
 ## The Pull Request
 
-Once you have cloned a project, this is now your version of the project. If you do not have permissions to edit the actual project, this is how you would contribute to a project.
+Once you have forked and then cloned a project, this is now your version of the project. If you do not have permissions to edit the actual project, this is how you would contribute.
 
 Once you have made edits and committed them to `master`, you can then create a **pull request** that the owner of the project will be notified of. If the updates are accepted, the admin will merge your **pull request** and the codes will be added to the project.

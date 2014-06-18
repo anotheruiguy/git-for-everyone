@@ -26,4 +26,5 @@
 * [Github](github/README.md)
 * [Fork a repo](fork/README.md)
 * [Clone a repo](clone/README.md)
+* [Auto complete](auto/README.md)
 
