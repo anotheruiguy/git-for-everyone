@@ -15,18 +15,21 @@ This course will be presented with a slide deck, live demonstration and Gitbook 
 #### Presentation outline:
 
 * Life in the Terminal
-* Terminal cheatsheet (short list in presentation, full doc in Gitbook)
-* What is branching? (visual in presentation)
-* Git basics - a general workflow (book and presentation)
-* Git demo (visual desktop demo)
-* Clone a repo (how to)
-* Fork a repo, edit and submit a pull request (how to)
+* What is branching?
+* Git workflow (branching and merging)
+
+#### Demo outline:
+
+* Create local repo
+* Add content and commit code
+* Branch the code
+* Merge all the codes
+* Fork a repo
 
 #### Workshop outline:
 
 * Getting Git Installed
+* Exercise Git workflow
 * Create a Github account and generate your SSH key
-* Exercise Git workflow (deck visual)
+* Fork a repo
 * Clone a repo
-* Fork a repo, edit and submit a pull request
-* Setting up GIT Bash autocompletion (mention in deck, full doc in Gitbook)
