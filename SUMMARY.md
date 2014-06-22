@@ -1,5 +1,6 @@
 # Summary
 
+* [The Deck](deck/README.md)
 * [Life in the Terminal](terminal/README.md)
   * [Why Terminal?](terminal/why-terminal.md)
   * [Meet Bash](terminal/meet-bash.md)
