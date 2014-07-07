@@ -6,12 +6,12 @@ The first step to making the Terminal easier to use it to make it easier to look
 
 If you are new to Terminal, on the `Startup` tab, there isn't much you should really touch there.
 
-### The `Settings` tab
+### The 'Settings' tab
 
 * Under `Profiles` select the theme that would like to use
 * Be sure to click the `default` button at the bottom so that this becomes your default theme when opening a new Terminal session
 
-#### The `Text` sub-tab
+#### The 'Text' sub-tab
 
 **Font:** You want to update this to your preference. Monaco 14pt is a great looking font IMHO. Characters are distinct and are difficult to confuse, which is important.
 
@@ -30,7 +30,7 @@ To the right of `Antialias text` is a color well, I suggest changing this to a c
 
 Not sure what it is, but developers for some reason really like to tweak out their Terminal to look like old skool [green screen terminal computers](http://cdn.osxdaily.com/wp-content/uploads/2011/01/cathode-full-screen.jpg). Myself, my first computer screen was [amber](http://www.vintage-computer.com/images/ibmpcportscreen.jpg), so I have a nostalgic connection to this and an amber screen has been claimed to give improved ergonomics, specifically by reducing eye strain. There is no proof to this, but who needs science?
 
-#### The `Window` sub-tab
+#### The 'Window' sub-tab
 
 **Title:** This is what will appear in the gray bar at the top of the Terminal window. The checkboxes below, with a terminal window open, check/uncheck these options to see if they are of any value to you.
 

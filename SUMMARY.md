@@ -3,6 +3,7 @@
 * [The Deck](deck/README.md)
 * [Life in the Terminal](terminal/README.md)
   * [Why Terminal?](terminal/why-terminal.md)
+  * [Pimp your Terminal](terminal/pimp-terminal.md)
   * [Meet Bash](terminal/meet-bash.md)
   * [File Nav](terminal/file-nav.md)
   * [Cheat sheet](terminal/cheat-sheet.md)
