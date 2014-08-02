@@ -5,7 +5,7 @@ When working with feature branches on a team, it is typically not appropriate to
 To push the new feature branch to the remote repo, simply do the following:
 
 ```
-$ git push origin my-new-feature-brach
+$ git push origin my-new-feature-branch
 ```
 
 As far as Git is concerned, there is no real difference between `master` and a feature branch. So, all the same Git features apply.
